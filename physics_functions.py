@@ -1,14 +1,13 @@
-"""
-Use functions to convert temperatures, calculate force, energy, and work.
+# Use functions to convert temperatures, calculate force, energy, and work.
 
-- Create `f_to_c()` to convert Fahrenheit to Celsius.
-- Create `c_to_f()` to convert Celsius to Fahrenheit.
-- Create `get_force()` to return mass times acceleration.
-- Create `get_energy()` to return mass times the speed of light squared.
-- Create `get_work()` to return force times distance, using `get_force()` inside it.
+# Create `f_to_c()` to convert Fahrenheit to Celsius.
+# Create `c_to_f()` to convert Celsius to Fahrenheit.
+# Create `get_force()` to return mass times acceleration.
+# Create `get_energy()` to return mass times the speed of light squared.
+# Create `get_work()` to return force times distance, using `get_force()` inside it.
 
-Test your functions with the provided values and print the results.
-"""
+#Test your functions with the provided values and print the results.
+
 
 rain_mass = 22680
 train_acceleration = 10
