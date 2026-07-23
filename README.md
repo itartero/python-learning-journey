@@ -20,7 +20,7 @@ Repositorio personal donde voy subiendo ejercicios, apuntes y mini proyectos mie
 - Variables ✅
 - Condicionales ✅
 - Bucles ✅
-- Funciones ⏳
+- Funciones ✅
 - Estructuras de datos ⏳
 - Mini proyectos ⏳
 
