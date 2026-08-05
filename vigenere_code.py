@@ -31,7 +31,7 @@ def vigenere_message(message, key):
   decode_index = []
   for index_number in message_index:
     if index_number not in (" ", "?", "!"):
-      decode_index.append((index_number - key_index[index]) % 26)
+      decode_index.append((index_number + key_index[index]) % 26)
     else:
       decode_index.append(index_number)
     index += 1
@@ -42,6 +42,6 @@ def vigenere_message(message, key):
       decode_message.append(alphabet[i])
     else:
       decode_message.append(i)
-  print(decode_message)
+  return "".join(decode_message)
 
 print(vigenere_message("txm srom vkda gl lzlgzr qpdb? fepb ejac! ubr imn tapludwy mhfbz cza ruxzal wg zztylktoikqq!", "friends"))
