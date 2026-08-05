@@ -21,8 +21,8 @@ Repositorio personal donde voy subiendo ejercicios, apuntes y mini proyectos mie
 - Condicionales ✅
 - Bucles ✅
 - Funciones ✅
-- Estructuras de datos ⏳
-- Mini proyectos ⏳
+- Estructuras de datos ✅
+- Mini proyectos ✅
 
 ## Cómo usar este repositorio
 
