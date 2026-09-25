@@ -1,3 +1,5 @@
+# En este ejercicio busco practicar Python con los conceptos estádisticos aprendidos intentando no utilizar librerias o las menos posibles
+
 import math
 
 # Calculamos la media
