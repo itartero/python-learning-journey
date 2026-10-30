@@ -1,6 +1,6 @@
 # Python Learning Journey 🐍
 
-Repositorio personal donde voy subiendo ejercicios, apuntes y mini proyectos mientras aprendo Python.
+Repositorio personal donde voy subiendo ejercicios, apuntes y mini proyectos mientras aprendo Python y Estadística.
 
 ## Objetivo
 
@@ -23,10 +23,6 @@ Repositorio personal donde voy subiendo ejercicios, apuntes y mini proyectos mie
 - Funciones ✅
 - Estructuras de datos ✅
 - Mini proyectos ✅
-
-## Cómo usar este repositorio
-
-Cada archivo contiene un ejercicio o ejemplo práctico con código comentado para facilitar el aprendizaje.
 
 ## Sobre mí
 
